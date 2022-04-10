@@ -1,6 +1,7 @@
-# No 1a
 x = 3
 p = 0.20
+
+# No 1a
 dgeom(x = 3, p = 0.20)
 
 # No 1b

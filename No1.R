@@ -18,7 +18,7 @@ data.frame(x = 0:10, p = dgeom(x = 0:10, p)) %>%
   ggplot(aes(x = factor(x), y = p, fill = Failures)) +
   geom_col() +
   geom_text(
-    aes(label = round(prob,2), y = prob + 0.01),
+    aes(label = round(p, 2), y = p + 0.01),
     position = position_dodge(0.9),
     size = 3,
     vjust = 0

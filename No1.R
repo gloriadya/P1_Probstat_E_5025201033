@@ -1,7 +1,7 @@
 # No 1a
 x = 3
 p = 0.20
-dgeom(x, p)
+dgeom(x = 3, p = 0.20)
 
 # No 1b
 mean(rgeom(n = 10000, p) == x)

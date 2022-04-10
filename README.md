@@ -39,6 +39,8 @@
 ![3b](https://user-images.githubusercontent.com/91613088/162617398-34191278-6b0f-4590-8784-0b032f5a6734.jpeg)
 
 * 3c. Membandingkan hasil poin a dan b, apa kesimpulan yang bisa didapatkan
+
+
 * 3d. Menghitung nilai Rataan (μ) dan Varian ( σ2 ) dari distribusi poisson
 
 **Penjelasan Soal No 4**
@@ -70,6 +72,6 @@
 
 ![6b](https://user-images.githubusercontent.com/91613088/162617945-f539ec52-3d27-4dff-8cf7-1826982e16d5.png)
 
-* 6c. Menghitung nilai Varian ( σ2 ) dari hasil generate random nilai Distribusi Normal
+* 6c. Menghitung nilai Varian ( σ2 ) dari hasil generate random nilai Distribusi Normal dengan mengalikan sd yang mana sd adalah standar deviasi. Nilai defaultnya adalah 1.
 
 ![6c](https://user-images.githubusercontent.com/91613088/162617817-53a04319-ac0e-48ec-9207-99e5b9a2859d.png)

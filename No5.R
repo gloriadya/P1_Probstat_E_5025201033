@@ -1,7 +1,7 @@
 x = 3
 
 # No 5a
-dexp(x, rate = 1, log = FALSE)
+dexp(x = 3, rate = 1, log = FALSE)
 
 # No 5b
 set.seed(1)

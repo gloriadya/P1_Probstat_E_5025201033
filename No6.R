@@ -9,4 +9,4 @@ hist(rnorm(n = 100, mean = 50, sd = 8), breaks = 50, main = "5025201033_Gloria D
 
 # No 6c
 var = sd * sd
-va
+var

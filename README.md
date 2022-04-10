@@ -68,7 +68,7 @@
 
 * 6b. Generate histogram dari Distribusi Normal dengan breaks 50 dan format penamaan: NRP_Nama_Probstat_{Nama Kelas}_DNhistogram
 
-![6b](https://user-images.githubusercontent.com/91613088/162617802-c37dea98-31d4-4ca6-8adc-4081be2ac741.jpeg)
+![6b](https://user-images.githubusercontent.com/91613088/162617945-f539ec52-3d27-4dff-8cf7-1826982e16d5.png)
 
 * 6c. Mencari nilai Varian ( σ2 ) dari hasil generate random nilai Distribusi Normal
 

@@ -1,7 +1,7 @@
 # P1_Probstat_E_5025201033
-Gloria Dyah Pramesti - Probstat E - 5025201033\
+**Gloria Dyah Pramesti - Probstat E - 5025201033**
 
-* Penjelasan Soal No 1
+**Penjelasan Soal No 1**
 * 1a. Mencari berapa peluang penyurvei bertemu x = 3 orang yang tidak menghadiri acara vaksinasi sebelum keberhasilan pertama ketika p = 0,20 dari populasi menghadiri acara vaksinasi? (distribusi geometrik)
 
 ![1a](https://user-images.githubusercontent.com/91613088/162616672-edc82da0-d85b-4c00-9b20-13e27d40079a.png)
@@ -17,3 +17,8 @@ Gloria Dyah Pramesti - Probstat E - 5025201033\
 ![1c](https://user-images.githubusercontent.com/91613088/162616755-341a5d0c-660c-4047-bd2d-6ad37c8575be.jpeg)
 
 * 1e. Mencari nilai Rataan (μ) dan Varian (σ2) dari distribusi geometrik
+
+**Penjelasan Soal No 2**
+* 2a. Mencari peluang terdapat 4 pasien yang sembuh
+* 2b. Gambarkan grafik histogram berdasarkan kasus tersebut
+* 2c. Mencari nilai Rataan (μ) dan Varian ( σ2 ) dari Distribusi Binomial
